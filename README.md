@@ -6,12 +6,12 @@
 ```
 luci-app-cpufreq
 luci-app-firewall
-luci-app-opkg
 luci-app-ssr-plus
     |V2ray-core Selection (Xray-core)
 luci-app-turboacc
     |Include Flow
     |Include BBR
     |Include Pdnsd
+luci-theme-argon
 luci-theme-bootstrap
 ```
