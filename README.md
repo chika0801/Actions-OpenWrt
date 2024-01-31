@@ -5,6 +5,7 @@
 **FastRhino R66s**
 ```
 luci-app-cpufreq
+luci-app-filetransfer
 luci-app-firewall
 luci-app-ssr-plus
     |V2ray-core Selection (Xray-core)
