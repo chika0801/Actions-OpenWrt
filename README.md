@@ -8,6 +8,7 @@ luci-app-cpufreq
 luci-app-filetransfer
 luci-app-firewall
 luci-app-ssr-plus
+    |Uclient SSL Lib Selection (libustream-openssl)
     |V2ray-core Selection (Xray-core)
 luci-app-turboacc
     |Include Flow
